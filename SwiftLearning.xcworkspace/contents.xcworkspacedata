@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:EstruturasCondicionais.playground">
+   </FileRef>
+   <FileRef
       location = "group:Logica.playground">
    </FileRef>
    <FileRef
