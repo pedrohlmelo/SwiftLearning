@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Sets.playground">
+   </FileRef>
+   <FileRef
       location = "group:Dicionario.playground">
    </FileRef>
    <FileRef
